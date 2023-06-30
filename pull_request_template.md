@@ -14,5 +14,6 @@
 - Goede asserts in test-code
 - Code op juiste plaats (applicatiebrede config op beans bijv)
 - Auditing added for REST endpoints and scheduled tasks
+- Gaat er geen onnodige publieke informatie naar buiten over software versies en software componenten.
 
 Check our Secure development policy at our [ISMS](https://openhealthhub.atlassian.net/wiki/spaces/ISMS/pages/222429737/Secure+development+policy/).
